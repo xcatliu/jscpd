@@ -32,7 +32,7 @@
     "coffeelint": "^1.15.0",
     "coveralls": "2.11.x",
     "istanbul": "^0.4.2",
-    "jscpd": ">=0.4.x",
+    "jscpd": "0.6.9",
     "mocha": ">=3.x",
     "proxyquire": "^1.7.4",
     "sinon": ">=1.12.x",
