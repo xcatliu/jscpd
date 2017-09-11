@@ -19,7 +19,7 @@
     "codemirror": "5.28.0",
     "colors": "^1.1.2",
     "glob": ">=5.0.x",
-    "js-yaml": ">=3.4.x",
+    "js-yaml": ">=3.10.0",
     "shelljs": ">=0.5.x",
     "underscore": ">=1.8.x",
     "winston": ">=1.0.x"
